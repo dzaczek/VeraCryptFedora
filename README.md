@@ -16,6 +16,6 @@ cd VeraCryptFedora
 docker build . -t veracrypt_env
 docker run --name VC veracrypt_env
 docker cp VC:/root/VersCryptCompile/VeraCrypt/src/Setup/Linux/ ./
-./Linux/veracrypt--CustomEFI-setup-gui-x64"
+./Linux/veracrypt--CustomEFI-setup-gui-x64
 ```
 
