@@ -1,6 +1,6 @@
 # VeraCryptFedora
 ## About
-Building from source VeaCrypt for Fedora 28/29 
+Building from source VeaCrypt for Fedora 28/29/30
 Compiling time around 30 minutes 
 
 ## Requirement
